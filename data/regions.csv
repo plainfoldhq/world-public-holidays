@@ -1,0 +1,21 @@
+region,country_code,subdivision_code,country,subdivision,weekend_days,checked_by_2026,checked_by_2027,checked_by_2028
+US,US,,United States,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+GB-ENG,GB,ENG,United Kingdom,England,"Sat,Sun",date-holidays,date-holidays,date-holidays
+CA,CA,,Canada,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+AU-NSW,AU,NSW,Australia,New South Wales,"Sat,Sun",date-holidays,date-holidays;workalendar,date-holidays;workalendar
+DE,DE,,Germany,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+FR,FR,,France,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+JP,JP,,Japan,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+BR,BR,,Brazil,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+MX,MX,,Mexico,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+ES,ES,,Spain,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+IT,IT,,Italy,,"Sat,Sun",date-holidays;workalendar,date-holidays,date-holidays
+IE,IE,,Ireland,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+NZ,NZ,,New Zealand,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+SG,SG,,Singapore,,"Sat,Sun",date-holidays,workalendar,workalendar
+SE,SE,,Sweden,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+PL,PL,,Poland,,"Sat,Sun",date-holidays,date-holidays,date-holidays;workalendar
+BE,BE,,Belgium,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+AT,AT,,Austria,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+CH-ZH,CH,ZH,Switzerland,Zürich,"Sat,Sun",date-holidays,date-holidays;workalendar,date-holidays;workalendar
+PT,PT,,Portugal,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
