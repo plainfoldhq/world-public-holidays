@@ -19,3 +19,9 @@ BE,BE,,Belgium,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,da
 AT,AT,,Austria,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
 CH-ZH,CH,ZH,Switzerland,Zürich,"Sat,Sun",date-holidays,date-holidays;workalendar,date-holidays;workalendar
 PT,PT,,Portugal,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+DK,DK,,Denmark,,"Sat,Sun",date-holidays,date-holidays,date-holidays
+NO,NO,,Norway,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+FI,FI,,Finland,,"Sat,Sun",workalendar,workalendar,workalendar
+CZ,CZ,,Czechia,,"Sat,Sun",date-holidays;workalendar,date-holidays;workalendar,date-holidays;workalendar
+CL,CL,,Chile,,"Sat,Sun",date-holidays,date-holidays,date-holidays;workalendar
+CO,CO,,Colombia,,"Sat,Sun",date-holidays,date-holidays,date-holidays

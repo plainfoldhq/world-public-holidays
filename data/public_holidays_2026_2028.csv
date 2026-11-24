@@ -685,3 +685,258 @@ PT,PT,,2028-11-01,Wed,All Saints' Day,Dia de Todos os Santos,0,0,0,1
 PT,PT,,2028-12-01,Fri,Restoration of Independence Day,Restauração da Independência,0,0,0,1
 PT,PT,,2028-12-08,Fri,Immaculate Conception,Imaculada Conceição,0,0,0,1
 PT,PT,,2028-12-25,Mon,Christmas Day,Dia de Natal,0,0,0,1
+DK,DK,,2026-01-01,Thu,New Year's Day,Nytårsdag,0,0,0,1
+DK,DK,,2026-04-02,Thu,Maundy Thursday,Skærtorsdag,0,0,0,1
+DK,DK,,2026-04-03,Fri,Good Friday,Langfredag,0,0,0,1
+DK,DK,,2026-04-05,Sun,Easter Sunday,Påskedag,0,1,0,0
+DK,DK,,2026-04-06,Mon,Easter Monday,Anden påskedag,0,0,0,1
+DK,DK,,2026-05-14,Thu,Ascension Day,Kristi himmelfartsdag,0,0,0,1
+DK,DK,,2026-05-24,Sun,Pentecost,Pinsedag,0,1,0,0
+DK,DK,,2026-05-25,Mon,Pentecost Monday,Anden pinsedag,0,0,0,1
+DK,DK,,2026-12-25,Fri,Christmas Day,Juledag,0,0,0,1
+DK,DK,,2026-12-26,Sat,Second Day of Christmas,Anden juledag,0,1,0,0
+DK,DK,,2027-01-01,Fri,New Year's Day,Nytårsdag,0,0,0,1
+DK,DK,,2027-03-25,Thu,Maundy Thursday,Skærtorsdag,0,0,0,1
+DK,DK,,2027-03-26,Fri,Good Friday,Langfredag,0,0,0,1
+DK,DK,,2027-03-28,Sun,Easter Sunday,Påskedag,0,1,0,0
+DK,DK,,2027-03-29,Mon,Easter Monday,Anden påskedag,0,0,0,1
+DK,DK,,2027-05-06,Thu,Ascension Day,Kristi himmelfartsdag,0,0,0,1
+DK,DK,,2027-05-16,Sun,Pentecost,Pinsedag,0,1,0,0
+DK,DK,,2027-05-17,Mon,Pentecost Monday,Anden pinsedag,0,0,0,1
+DK,DK,,2027-12-25,Sat,Christmas Day,Juledag,0,1,0,0
+DK,DK,,2027-12-26,Sun,Second Day of Christmas,Anden juledag,0,1,0,0
+DK,DK,,2028-01-01,Sat,New Year's Day,Nytårsdag,0,1,0,0
+DK,DK,,2028-04-13,Thu,Maundy Thursday,Skærtorsdag,0,0,0,1
+DK,DK,,2028-04-14,Fri,Good Friday,Langfredag,0,0,0,1
+DK,DK,,2028-04-16,Sun,Easter Sunday,Påskedag,0,1,0,0
+DK,DK,,2028-04-17,Mon,Easter Monday,Anden påskedag,0,0,0,1
+DK,DK,,2028-05-25,Thu,Ascension Day,Kristi himmelfartsdag,0,0,0,1
+DK,DK,,2028-06-04,Sun,Pentecost,Pinsedag,0,1,0,0
+DK,DK,,2028-06-05,Mon,Pentecost Monday,Anden pinsedag,0,0,0,1
+DK,DK,,2028-12-25,Mon,Christmas Day,Juledag,0,0,0,1
+DK,DK,,2028-12-26,Tue,Second Day of Christmas,Anden juledag,0,0,0,1
+NO,NO,,2026-01-01,Thu,New Year's Day,Første nyttårsdag,0,0,0,1
+NO,NO,,2026-04-02,Thu,Maundy Thursday,Skjærtorsdag,0,0,0,1
+NO,NO,,2026-04-03,Fri,Good Friday,Langfredag,0,0,0,1
+NO,NO,,2026-04-05,Sun,Easter Sunday,Første påskedag,0,1,0,0
+NO,NO,,2026-04-06,Mon,Easter Monday,Andre påskedag,0,0,0,1
+NO,NO,,2026-05-01,Fri,Labor Day,Arbeidernes dag,0,0,0,1
+NO,NO,,2026-05-14,Thu,Ascension Day,Kristi himmelfartsdag,0,0,0,1
+NO,NO,,2026-05-17,Sun,Constitution Day,Grunnlovsdag,0,1,0,0
+NO,NO,,2026-05-24,Sun,Pentecost,Første pinsedag,0,1,0,0
+NO,NO,,2026-05-25,Mon,Pentecost Monday,Andre pinsedag,0,0,0,1
+NO,NO,,2026-12-25,Fri,Christmas Day,Første juledag,0,0,0,1
+NO,NO,,2026-12-26,Sat,Second Day of Christmas,Andre juledag,0,1,0,0
+NO,NO,,2027-01-01,Fri,New Year's Day,Første nyttårsdag,0,0,0,1
+NO,NO,,2027-03-25,Thu,Maundy Thursday,Skjærtorsdag,0,0,0,1
+NO,NO,,2027-03-26,Fri,Good Friday,Langfredag,0,0,0,1
+NO,NO,,2027-03-28,Sun,Easter Sunday,Første påskedag,0,1,0,0
+NO,NO,,2027-03-29,Mon,Easter Monday,Andre påskedag,0,0,0,1
+NO,NO,,2027-05-01,Sat,Labor Day,Arbeidernes dag,0,1,0,0
+NO,NO,,2027-05-06,Thu,Ascension Day,Kristi himmelfartsdag,0,0,0,1
+NO,NO,,2027-05-16,Sun,Pentecost,Første pinsedag,0,1,0,0
+NO,NO,,2027-05-17,Mon,Constitution Day; Pentecost Monday,Andre pinsedag; Grunnlovsdag,0,0,0,1
+NO,NO,,2027-12-25,Sat,Christmas Day,Første juledag,0,1,0,0
+NO,NO,,2027-12-26,Sun,Second Day of Christmas,Andre juledag,0,1,0,0
+NO,NO,,2028-01-01,Sat,New Year's Day,Første nyttårsdag,0,1,0,0
+NO,NO,,2028-04-13,Thu,Maundy Thursday,Skjærtorsdag,0,0,0,1
+NO,NO,,2028-04-14,Fri,Good Friday,Langfredag,0,0,0,1
+NO,NO,,2028-04-16,Sun,Easter Sunday,Første påskedag,0,1,0,0
+NO,NO,,2028-04-17,Mon,Easter Monday,Andre påskedag,0,0,0,1
+NO,NO,,2028-05-01,Mon,Labor Day,Arbeidernes dag,0,0,0,1
+NO,NO,,2028-05-17,Wed,Constitution Day,Grunnlovsdag,0,0,0,1
+NO,NO,,2028-05-25,Thu,Ascension Day,Kristi himmelfartsdag,0,0,0,1
+NO,NO,,2028-06-04,Sun,Pentecost,Første pinsedag,0,1,0,0
+NO,NO,,2028-06-05,Mon,Pentecost Monday,Andre pinsedag,0,0,0,1
+NO,NO,,2028-12-25,Mon,Christmas Day,Første juledag,0,0,0,1
+NO,NO,,2028-12-26,Tue,Second Day of Christmas,Andre juledag,0,0,0,1
+FI,FI,,2026-01-01,Thu,New Year's Day,Uudenvuodenpäivä,0,0,0,1
+FI,FI,,2026-01-06,Tue,Epiphany,Loppiainen,0,0,0,1
+FI,FI,,2026-04-03,Fri,Good Friday,Pitkäperjantai,0,0,0,1
+FI,FI,,2026-04-05,Sun,Easter Sunday,Pääsiäispäivä,0,1,0,0
+FI,FI,,2026-04-06,Mon,Easter Monday,Toinen pääsiäispäivä,0,0,0,1
+FI,FI,,2026-05-01,Fri,May Day,Vappu,0,0,0,1
+FI,FI,,2026-05-14,Thu,Ascension Day,Helatorstai,0,0,0,1
+FI,FI,,2026-05-24,Sun,Pentecost,Helluntaipäivä,0,1,0,0
+FI,FI,,2026-06-19,Fri,Midsummer Eve,Juhannusaatto,0,0,0,1
+FI,FI,,2026-06-20,Sat,Midsummer Day,Juhannuspäivä,0,1,0,0
+FI,FI,,2026-10-31,Sat,All Saints' Day,Pyhäinpäivä,0,1,0,0
+FI,FI,,2026-12-06,Sun,Independence Day,Itsenäisyyspäivä,0,1,0,0
+FI,FI,,2026-12-24,Thu,Christmas Eve,Jouluaatto,0,0,0,1
+FI,FI,,2026-12-25,Fri,Christmas Day,Joulupäivä,0,0,0,1
+FI,FI,,2026-12-26,Sat,Second Day of Christmas,Tapaninpäivä,0,1,0,0
+FI,FI,,2027-01-01,Fri,New Year's Day,Uudenvuodenpäivä,0,0,0,1
+FI,FI,,2027-01-06,Wed,Epiphany,Loppiainen,0,0,0,1
+FI,FI,,2027-03-26,Fri,Good Friday,Pitkäperjantai,0,0,0,1
+FI,FI,,2027-03-28,Sun,Easter Sunday,Pääsiäispäivä,0,1,0,0
+FI,FI,,2027-03-29,Mon,Easter Monday,Toinen pääsiäispäivä,0,0,0,1
+FI,FI,,2027-05-01,Sat,May Day,Vappu,0,1,0,0
+FI,FI,,2027-05-06,Thu,Ascension Day,Helatorstai,0,0,0,1
+FI,FI,,2027-05-16,Sun,Pentecost,Helluntaipäivä,0,1,0,0
+FI,FI,,2027-06-25,Fri,Midsummer Eve,Juhannusaatto,0,0,0,1
+FI,FI,,2027-06-26,Sat,Midsummer Day,Juhannuspäivä,0,1,0,0
+FI,FI,,2027-11-06,Sat,All Saints' Day,Pyhäinpäivä,0,1,0,0
+FI,FI,,2027-12-06,Mon,Independence Day,Itsenäisyyspäivä,0,0,0,1
+FI,FI,,2027-12-24,Fri,Christmas Eve,Jouluaatto,0,0,0,1
+FI,FI,,2027-12-25,Sat,Christmas Day,Joulupäivä,0,1,0,0
+FI,FI,,2027-12-26,Sun,Second Day of Christmas,Tapaninpäivä,0,1,0,0
+FI,FI,,2028-01-01,Sat,New Year's Day,Uudenvuodenpäivä,0,1,0,0
+FI,FI,,2028-01-06,Thu,Epiphany,Loppiainen,0,0,0,1
+FI,FI,,2028-04-14,Fri,Good Friday,Pitkäperjantai,0,0,0,1
+FI,FI,,2028-04-16,Sun,Easter Sunday,Pääsiäispäivä,0,1,0,0
+FI,FI,,2028-04-17,Mon,Easter Monday,Toinen pääsiäispäivä,0,0,0,1
+FI,FI,,2028-05-01,Mon,May Day,Vappu,0,0,0,1
+FI,FI,,2028-05-25,Thu,Ascension Day,Helatorstai,0,0,0,1
+FI,FI,,2028-06-04,Sun,Pentecost,Helluntaipäivä,0,1,0,0
+FI,FI,,2028-06-23,Fri,Midsummer Eve,Juhannusaatto,0,0,0,1
+FI,FI,,2028-06-24,Sat,Midsummer Day,Juhannuspäivä,0,1,0,0
+FI,FI,,2028-11-04,Sat,All Saints' Day,Pyhäinpäivä,0,1,0,0
+FI,FI,,2028-12-06,Wed,Independence Day,Itsenäisyyspäivä,0,0,0,1
+FI,FI,,2028-12-24,Sun,Christmas Eve,Jouluaatto,0,1,0,0
+FI,FI,,2028-12-25,Mon,Christmas Day,Joulupäivä,0,0,0,1
+FI,FI,,2028-12-26,Tue,Second Day of Christmas,Tapaninpäivä,0,0,0,1
+CZ,CZ,,2026-01-01,Thu,Independent Czech State Restoration Day; New Year's Day,Den obnovy samostatného českého státu; Nový rok,0,0,0,1
+CZ,CZ,,2026-04-03,Fri,Good Friday,Velký pátek,0,0,0,1
+CZ,CZ,,2026-04-06,Mon,Easter Monday,Velikonoční pondělí,0,0,0,1
+CZ,CZ,,2026-05-01,Fri,Labor Day,Svátek práce,0,0,0,1
+CZ,CZ,,2026-05-08,Fri,Victory Day,Den vítězství,0,0,0,1
+CZ,CZ,,2026-07-05,Sun,Saints Cyril and Methodius Day,Den slovanských věrozvěstů Cyrila a Metoděje,0,1,0,0
+CZ,CZ,,2026-07-06,Mon,Jan Hus Day,Den upálení mistra Jana Husa,0,0,0,1
+CZ,CZ,,2026-09-28,Mon,Statehood Day,Den české státnosti,0,0,0,1
+CZ,CZ,,2026-10-28,Wed,Independent Czechoslovak State Day,Den vzniku samostatného československého státu,0,0,0,1
+CZ,CZ,,2026-11-17,Tue,Struggle for Freedom and Democracy Day and International Students' Day,Den boje za svobodu a demokracii a Mezinárodní den studentstva,0,0,0,1
+CZ,CZ,,2026-12-24,Thu,Christmas Eve,Štědrý den,0,0,0,1
+CZ,CZ,,2026-12-25,Fri,Christmas Day,1. svátek vánoční,0,0,0,1
+CZ,CZ,,2026-12-26,Sat,Second Day of Christmas,2. svátek vánoční,0,1,0,0
+CZ,CZ,,2027-01-01,Fri,Independent Czech State Restoration Day; New Year's Day,Den obnovy samostatného českého státu; Nový rok,0,0,0,1
+CZ,CZ,,2027-03-26,Fri,Good Friday,Velký pátek,0,0,0,1
+CZ,CZ,,2027-03-29,Mon,Easter Monday,Velikonoční pondělí,0,0,0,1
+CZ,CZ,,2027-05-01,Sat,Labor Day,Svátek práce,0,1,0,0
+CZ,CZ,,2027-05-08,Sat,Victory Day,Den vítězství,0,1,0,0
+CZ,CZ,,2027-07-05,Mon,Saints Cyril and Methodius Day,Den slovanských věrozvěstů Cyrila a Metoděje,0,0,0,1
+CZ,CZ,,2027-07-06,Tue,Jan Hus Day,Den upálení mistra Jana Husa,0,0,0,1
+CZ,CZ,,2027-09-28,Tue,Statehood Day,Den české státnosti,0,0,0,1
+CZ,CZ,,2027-10-28,Thu,Independent Czechoslovak State Day,Den vzniku samostatného československého státu,0,0,0,1
+CZ,CZ,,2027-11-17,Wed,Struggle for Freedom and Democracy Day and International Students' Day,Den boje za svobodu a demokracii a Mezinárodní den studentstva,0,0,0,1
+CZ,CZ,,2027-12-24,Fri,Christmas Eve,Štědrý den,0,0,0,1
+CZ,CZ,,2027-12-25,Sat,Christmas Day,1. svátek vánoční,0,1,0,0
+CZ,CZ,,2027-12-26,Sun,Second Day of Christmas,2. svátek vánoční,0,1,0,0
+CZ,CZ,,2028-01-01,Sat,Independent Czech State Restoration Day; New Year's Day,Den obnovy samostatného českého státu; Nový rok,0,1,0,0
+CZ,CZ,,2028-04-14,Fri,Good Friday,Velký pátek,0,0,0,1
+CZ,CZ,,2028-04-17,Mon,Easter Monday,Velikonoční pondělí,0,0,0,1
+CZ,CZ,,2028-05-01,Mon,Labor Day,Svátek práce,0,0,0,1
+CZ,CZ,,2028-05-08,Mon,Victory Day,Den vítězství,0,0,0,1
+CZ,CZ,,2028-07-05,Wed,Saints Cyril and Methodius Day,Den slovanských věrozvěstů Cyrila a Metoděje,0,0,0,1
+CZ,CZ,,2028-07-06,Thu,Jan Hus Day,Den upálení mistra Jana Husa,0,0,0,1
+CZ,CZ,,2028-09-28,Thu,Statehood Day,Den české státnosti,0,0,0,1
+CZ,CZ,,2028-10-28,Sat,Independent Czechoslovak State Day,Den vzniku samostatného československého státu,0,1,0,0
+CZ,CZ,,2028-11-17,Fri,Struggle for Freedom and Democracy Day and International Students' Day,Den boje za svobodu a demokracii a Mezinárodní den studentstva,0,0,0,1
+CZ,CZ,,2028-12-24,Sun,Christmas Eve,Štědrý den,0,1,0,0
+CZ,CZ,,2028-12-25,Mon,Christmas Day,1. svátek vánoční,0,0,0,1
+CZ,CZ,,2028-12-26,Tue,Second Day of Christmas,2. svátek vánoční,0,0,0,1
+CL,CL,,2026-01-01,Thu,New Year's Day,Año Nuevo,0,0,0,1
+CL,CL,,2026-04-03,Fri,Good Friday,Viernes Santo,0,0,0,1
+CL,CL,,2026-04-04,Sat,Holy Saturday,Sábado Santo,0,1,0,0
+CL,CL,,2026-05-01,Fri,Labor Day,Día Nacional del Trabajo,0,0,0,1
+CL,CL,,2026-05-21,Thu,Navy Day,Día de las Glorias Navales,0,0,0,1
+CL,CL,,2026-06-21,Sun,National Indigenous Peoples Day,Día Nacional de los Pueblos Indígenas,0,1,0,0
+CL,CL,,2026-06-29,Mon,Saint Peter and Saint Paul's Day,San Pedro y San Pablo,0,0,0,1
+CL,CL,,2026-07-16,Thu,Our Lady of Mount Carmel,Virgen del Carmen,0,0,0,1
+CL,CL,,2026-08-15,Sat,Assumption Day,Asunción de la Virgen,0,1,0,0
+CL,CL,,2026-09-18,Fri,Independence Day,Día de la Independencia,0,0,0,1
+CL,CL,,2026-09-19,Sat,Army Day,Día de las Glorias del Ejército,0,1,0,0
+CL,CL,,2026-10-12,Mon,Meeting of Two Worlds' Day,Día del Encuentro de dos Mundos,0,0,0,1
+CL,CL,,2026-10-31,Sat,Reformation Day,Día Nacional de las Iglesias Evangélicas y Protestantes,0,1,0,0
+CL,CL,,2026-11-01,Sun,All Saints' Day,Día de Todos los Santos,0,1,0,0
+CL,CL,,2026-12-08,Tue,Immaculate Conception,La Inmaculada Concepción,0,0,0,1
+CL,CL,,2026-12-25,Fri,Christmas Day,Navidad,0,0,0,1
+CL,CL,,2027-01-01,Fri,New Year's Day,Año Nuevo,0,0,0,1
+CL,CL,,2027-03-26,Fri,Good Friday,Viernes Santo,0,0,0,1
+CL,CL,,2027-03-27,Sat,Holy Saturday,Sábado Santo,0,1,0,0
+CL,CL,,2027-05-01,Sat,Labor Day,Día Nacional del Trabajo,0,1,0,0
+CL,CL,,2027-05-21,Fri,Navy Day,Día de las Glorias Navales,0,0,0,1
+CL,CL,,2027-06-21,Mon,National Indigenous Peoples Day,Día Nacional de los Pueblos Indígenas,0,0,0,1
+CL,CL,,2027-06-28,Mon,Saint Peter and Saint Paul's Day,San Pedro y San Pablo,1,0,0,1
+CL,CL,,2027-07-16,Fri,Our Lady of Mount Carmel,Virgen del Carmen,0,0,0,1
+CL,CL,,2027-08-15,Sun,Assumption Day,Asunción de la Virgen,0,1,0,0
+CL,CL,,2027-09-17,Fri,National Holiday,Fiestas Patrias,0,0,0,1
+CL,CL,,2027-09-18,Sat,Independence Day,Día de la Independencia,0,1,0,0
+CL,CL,,2027-09-19,Sun,Army Day,Día de las Glorias del Ejército,0,1,0,0
+CL,CL,,2027-10-11,Mon,Meeting of Two Worlds' Day,Día del Encuentro de dos Mundos,1,0,0,1
+CL,CL,,2027-10-31,Sun,Reformation Day,Día Nacional de las Iglesias Evangélicas y Protestantes,0,1,0,0
+CL,CL,,2027-11-01,Mon,All Saints' Day,Día de Todos los Santos,0,0,0,1
+CL,CL,,2027-12-08,Wed,Immaculate Conception,La Inmaculada Concepción,0,0,0,1
+CL,CL,,2027-12-25,Sat,Christmas Day,Navidad,0,1,0,0
+CL,CL,,2028-01-01,Sat,New Year's Day,Año Nuevo,0,1,0,0
+CL,CL,,2028-04-14,Fri,Good Friday,Viernes Santo,0,0,0,1
+CL,CL,,2028-04-15,Sat,Holy Saturday,Sábado Santo,0,1,0,0
+CL,CL,,2028-05-01,Mon,Labor Day,Día Nacional del Trabajo,0,0,0,1
+CL,CL,,2028-05-21,Sun,Navy Day,Día de las Glorias Navales,0,1,0,0
+CL,CL,,2028-06-20,Tue,National Indigenous Peoples Day,Día Nacional de los Pueblos Indígenas,0,0,0,1
+CL,CL,,2028-06-26,Mon,Saint Peter and Saint Paul's Day,San Pedro y San Pablo,1,0,0,1
+CL,CL,,2028-07-16,Sun,Our Lady of Mount Carmel,Virgen del Carmen,0,1,0,0
+CL,CL,,2028-08-15,Tue,Assumption Day,Asunción de la Virgen,0,0,0,1
+CL,CL,,2028-09-18,Mon,Independence Day,Día de la Independencia,0,0,0,1
+CL,CL,,2028-09-19,Tue,Army Day,Día de las Glorias del Ejército,0,0,0,1
+CL,CL,,2028-10-09,Mon,Meeting of Two Worlds' Day,Día del Encuentro de dos Mundos,1,0,0,1
+CL,CL,,2028-10-27,Fri,Reformation Day,Día Nacional de las Iglesias Evangélicas y Protestantes,1,0,0,1
+CL,CL,,2028-11-01,Wed,All Saints' Day,Día de Todos los Santos,0,0,0,1
+CL,CL,,2028-12-08,Fri,Immaculate Conception,La Inmaculada Concepción,0,0,0,1
+CL,CL,,2028-12-25,Mon,Christmas Day,Navidad,0,0,0,1
+CO,CO,,2026-01-01,Thu,New Year's Day,Año Nuevo,0,0,0,1
+CO,CO,,2026-01-12,Mon,Epiphany (observed),Día de los Reyes Magos (observado),1,0,0,1
+CO,CO,,2026-03-23,Mon,Saint Joseph's Day (observed),Día de San José (observado),1,0,0,1
+CO,CO,,2026-04-02,Thu,Maundy Thursday,Jueves Santo,0,0,0,1
+CO,CO,,2026-04-03,Fri,Good Friday,Viernes Santo,0,0,0,1
+CO,CO,,2026-05-01,Fri,Labor Day,Día del Trabajo,0,0,0,1
+CO,CO,,2026-05-18,Mon,Ascension Day (observed),Ascensión del señor (observado),1,0,0,1
+CO,CO,,2026-06-08,Mon,Corpus Christi (observed),Corpus Christi (observado),1,0,0,1
+CO,CO,,2026-06-15,Mon,Sacred Heart (observed),Sagrado Corazón (observado),1,0,0,1
+CO,CO,,2026-06-29,Mon,Saint Peter and Saint Paul's Day,San Pedro y San Pablo,0,0,0,1
+CO,CO,,2026-07-13,Mon,Day of Our Lady of the Rosary of Chiquinquirá (observed),Día de Nuestra Señora del Rosario de Chiquinquirá (observado),1,0,0,1
+CO,CO,,2026-07-20,Mon,Independence Day,Día de la Independencia,0,0,0,1
+CO,CO,,2026-08-07,Fri,Battle of Boyacá,Batalla de Boyacá,0,0,0,1
+CO,CO,,2026-08-17,Mon,Assumption Day (observed),La Asunción (observado),1,0,0,1
+CO,CO,,2026-10-12,Mon,Columbus Day,Día de la Raza,0,0,0,1
+CO,CO,,2026-11-02,Mon,All Saints' Day (observed),Día de Todos los Santos (observado),1,0,0,1
+CO,CO,,2026-11-16,Mon,Independence of Cartagena (observed),Independencia de Cartagena (observado),1,0,0,1
+CO,CO,,2026-12-08,Tue,Immaculate Conception,La Inmaculada Concepción,0,0,0,1
+CO,CO,,2026-12-25,Fri,Christmas Day,Navidad,0,0,0,1
+CO,CO,,2027-01-01,Fri,New Year's Day,Año Nuevo,0,0,0,1
+CO,CO,,2027-01-11,Mon,Epiphany (observed),Día de los Reyes Magos (observado),1,0,0,1
+CO,CO,,2027-03-22,Mon,Saint Joseph's Day (observed),Día de San José (observado),1,0,0,1
+CO,CO,,2027-03-25,Thu,Maundy Thursday,Jueves Santo,0,0,0,1
+CO,CO,,2027-03-26,Fri,Good Friday,Viernes Santo,0,0,0,1
+CO,CO,,2027-05-01,Sat,Labor Day,Día del Trabajo,0,1,0,0
+CO,CO,,2027-05-10,Mon,Ascension Day (observed),Ascensión del señor (observado),1,0,0,1
+CO,CO,,2027-05-31,Mon,Corpus Christi (observed),Corpus Christi (observado),1,0,0,1
+CO,CO,,2027-06-07,Mon,Sacred Heart (observed),Sagrado Corazón (observado),1,0,0,1
+CO,CO,,2027-07-05,Mon,Saint Peter and Saint Paul's Day (observed),San Pedro y San Pablo (observado),1,0,0,1
+CO,CO,,2027-07-12,Mon,Day of Our Lady of the Rosary of Chiquinquirá (observed),Día de Nuestra Señora del Rosario de Chiquinquirá (observado),1,0,0,1
+CO,CO,,2027-07-20,Tue,Independence Day,Día de la Independencia,0,0,0,1
+CO,CO,,2027-08-07,Sat,Battle of Boyacá,Batalla de Boyacá,0,1,0,0
+CO,CO,,2027-08-16,Mon,Assumption Day (observed),La Asunción (observado),1,0,0,1
+CO,CO,,2027-10-18,Mon,Columbus Day (observed),Día de la Raza (observado),1,0,0,1
+CO,CO,,2027-11-01,Mon,All Saints' Day,Día de Todos los Santos,0,0,0,1
+CO,CO,,2027-11-15,Mon,Independence of Cartagena (observed),Independencia de Cartagena (observado),1,0,0,1
+CO,CO,,2027-12-08,Wed,Immaculate Conception,La Inmaculada Concepción,0,0,0,1
+CO,CO,,2027-12-25,Sat,Christmas Day,Navidad,0,1,0,0
+CO,CO,,2028-01-01,Sat,New Year's Day,Año Nuevo,0,1,0,0
+CO,CO,,2028-01-10,Mon,Epiphany (observed),Día de los Reyes Magos (observado),1,0,0,1
+CO,CO,,2028-03-20,Mon,Saint Joseph's Day (observed),Día de San José (observado),1,0,0,1
+CO,CO,,2028-04-13,Thu,Maundy Thursday,Jueves Santo,0,0,0,1
+CO,CO,,2028-04-14,Fri,Good Friday,Viernes Santo,0,0,0,1
+CO,CO,,2028-05-01,Mon,Labor Day,Día del Trabajo,0,0,0,1
+CO,CO,,2028-05-29,Mon,Ascension Day (observed),Ascensión del señor (observado),1,0,0,1
+CO,CO,,2028-06-19,Mon,Corpus Christi (observed),Corpus Christi (observado),1,0,0,1
+CO,CO,,2028-06-26,Mon,Sacred Heart (observed),Sagrado Corazón (observado),1,0,0,1
+CO,CO,,2028-07-03,Mon,Saint Peter and Saint Paul's Day (observed),San Pedro y San Pablo (observado),1,0,0,1
+CO,CO,,2028-07-10,Mon,Day of Our Lady of the Rosary of Chiquinquirá (observed),Día de Nuestra Señora del Rosario de Chiquinquirá (observado),1,0,0,1
+CO,CO,,2028-07-20,Thu,Independence Day,Día de la Independencia,0,0,0,1
+CO,CO,,2028-08-07,Mon,Battle of Boyacá,Batalla de Boyacá,0,0,0,1
+CO,CO,,2028-08-21,Mon,Assumption Day (observed),La Asunción (observado),1,0,0,1
+CO,CO,,2028-10-16,Mon,Columbus Day (observed),Día de la Raza (observado),1,0,0,1
+CO,CO,,2028-11-06,Mon,All Saints' Day (observed),Día de Todos los Santos (observado),1,0,0,1
+CO,CO,,2028-11-13,Mon,Independence of Cartagena (observed),Independencia de Cartagena (observado),1,0,0,1
+CO,CO,,2028-12-08,Fri,Immaculate Conception,La Inmaculada Concepción,0,0,0,1
+CO,CO,,2028-12-25,Mon,Christmas Day,Navidad,0,0,0,1

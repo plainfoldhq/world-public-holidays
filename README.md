@@ -1,14 +1,14 @@
-# Public holidays 2026-2028 for 20 countries (CSV)
+# Public holidays 2026-2028 for 26 countries (CSV)
 
-Free CSV of the public holidays of 20 countries and regions for 2026, 2027 and 2028, with observed (substitute) days and a flag on every row that says whether an independent implementation confirmed the date.
+Free CSV of the public holidays of 26 countries and regions for 2026, 2027 and 2028, with observed (substitute) days and a flag on every row that says whether an independent implementation confirmed the date.
 
-Regions: United States (`US`), United Kingdom (England) (`GB-ENG`), Canada (`CA`), Australia (New South Wales) (`AU-NSW`), Germany (`DE`), France (`FR`), Japan (`JP`), Brazil (`BR`), Mexico (`MX`), Spain (`ES`), Italy (`IT`), Ireland (`IE`), New Zealand (`NZ`), Singapore (`SG`), Sweden (`SE`), Poland (`PL`), Belgium (`BE`), Austria (`AT`), Switzerland (Zürich) (`CH-ZH`), Portugal (`PT`).
+Regions: United States (`US`), United Kingdom (England) (`GB-ENG`), Canada (`CA`), Australia (New South Wales) (`AU-NSW`), Germany (`DE`), France (`FR`), Japan (`JP`), Brazil (`BR`), Mexico (`MX`), Spain (`ES`), Italy (`IT`), Ireland (`IE`), New Zealand (`NZ`), Singapore (`SG`), Sweden (`SE`), Poland (`PL`), Belgium (`BE`), Austria (`AT`), Switzerland (Zürich) (`CH-ZH`), Portugal (`PT`), Denmark (`DK`), Norway (`NO`), Finland (`FI`), Czechia (`CZ`), Chile (`CL`), Colombia (`CO`).
 
 For federal countries the file uses one subdivision (England, New South Wales, Zurich) because their holidays differ by region; Canada (`CA`) is the five holidays the `holidays` package lists for Canada with no province (New Year's Day, Good Friday, Canada Day, Labour Day, Christmas Day); it is not the federal statutory list, and every province adds more.
 
 ## Files
 
-`data/public_holidays_2026_2028.csv`: 686 rows, one per holiday and date.
+`data/public_holidays_2026_2028.csv`: 941 rows, one per holiday and date.
 
 | column | example | notes |
 |---|---|---|
