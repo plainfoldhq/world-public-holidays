@@ -64,6 +64,8 @@ $19: [buy on Polar](https://buy.polar.sh/polar_cl_GyNejNT1XIOvB0AyazglLeeinrcYHf
 
 Readable tables, one page per country: [plainfoldhq.github.io/public-holidays](https://plainfoldhq.github.io/public-holidays/).
 
+Keep a company holiday list in a repo? The free [holiday-drift-check](https://github.com/plainfoldhq/holiday-drift-check) GitHub Action checks a YAML/JSON/CSV holiday file against these 26 calendars (2026-2028) and flags missing holidays, weekend dates that should be the observed weekday, and a next year not filled in yet.
+
 ## License
 
 Data in `data/`: CC0 1.0 (public domain). Tests: MIT. See LICENSE.
