@@ -60,7 +60,7 @@ WHERE region = 'JP' AND date BETWEEN '2027-01-01' AND '2027-12-31';
 ## More countries and years
 
 The full set covers 156 countries and 60 subdivisions (UK nations, Australian states, Canadian provinces, German states, Swiss cantons), 2000-2050, wherever the same check passes, as CSV, JSON, SQLite and .ics with a business-day helper. Region-years where the implementations disagree are listed as not covered.
-$19: [buy on Polar](https://buy.polar.sh/polar_cl_GyNejNT1XIOvB0AyazglLeeinrcYHfdmPngZm1qqqg0) (checkout and tax by Polar, merchant of record). Also part of the [All-Access yearly plan](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl) with all Plainfold data packs.
+$19: [buy on Polar](https://buy.polar.sh/polar_cl_GyNejNT1XIOvB0AyazglLeeinrcYHfdmPngZm1qqqg0?utm_source=github&utm_medium=readme&utm_campaign=H&utm_content=world-public-holidays) (checkout and tax by Polar, merchant of record). Also part of the [All-Access yearly plan](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=github&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=world-public-holidays) with all Plainfold data packs.
 
 Readable tables, one page per country: [plainfoldhq.github.io/public-holidays](https://plainfoldhq.github.io/public-holidays/).
 
