@@ -6,6 +6,10 @@ Regions: United States (`US`), United Kingdom (England) (`GB-ENG`), Canada (`CA`
 
 For federal countries the file uses one subdivision (England, New South Wales, Zurich) because their holidays differ by region; Canada (`CA`) is the five holidays the `holidays` package lists for Canada with no province (New Year's Day, Good Friday, Canada Day, Labour Day, Christmas Day); it is not the federal statutory list, and every province adds more.
 
+## Guide
+
+- [Public holidays by country from CSV in Python: one country or region, working days per month, comparing two countries](https://github.com/plainfoldhq/world-public-holidays/blob/main/docs/public-holidays-by-country-python.md)
+
 ## Files
 
 `data/public_holidays_2026_2028.csv`: 941 rows, one per holiday and date.
